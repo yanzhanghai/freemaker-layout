@@ -1,0 +1,7 @@
+org/freemaker/layout/AssignLv.class
+org/freemaker/layout/FreemakerLayoutResolver$LayoutEntry.class
+org/freemaker/layout/FreemakerLayoutResolver$FreeMarkerLayoutView.class
+org/freemaker/layout/FreemakerLayoutResolver$LayoutConfig.class
+org/freemaker/layout/FreemakerLayoutResolver.class
+org/freemaker/layout/Widget.class
+org/freemaker/layout/WidgetInclude.class
